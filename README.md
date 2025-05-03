@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/the0807-geeknews-mcp-server-badge.png)](https://mseep.ai/app/the0807-geeknews-mcp-server)
+
 # GeekNews MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@the0807/geeknews-mcp-server)](https://smithery.ai/server/@the0807/geeknews-mcp-server)
